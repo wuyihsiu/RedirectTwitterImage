@@ -9,7 +9,7 @@
             }
         },
         "condition": {
-            "regexFilter": "(^https://pbs.twimg.com/media/)(.*)=(small|large|\\d{2,4}x\\d{2,4})",
+            "regexFilter": "(^https://pbs.twimg.com/media/)(.*)=(small|medium|large|\\d{2,4}x\\d{2,4})",
             "resourceTypes": [
                 "main_frame"
             ]
